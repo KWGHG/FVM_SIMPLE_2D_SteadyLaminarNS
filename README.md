@@ -30,3 +30,7 @@ $$
 網格點順序為下到上、左至右。如下圖所示  
   
 <img src="https://github.com/KWGHG/FVM_SIMPLE_2D_SteadyLaminarNS/blob/main/mesh%20format.jpg" width="400" />
+
+# Dependences
++ `Eigen-3.4.0`
+  安裝至Dependences，記得要更改VS庫設定
