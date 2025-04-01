@@ -17,3 +17,14 @@ u_{avg} &= -\frac{h^2}{3\mu} \frac{dP}{dx} \\
 u_{max} &= -\frac{h^2}{2\mu} \frac{dP}{dx}
 \end{aligned}
 $$
+
+#Mesh format
+|numRow|numColume|
+|-|-|
+|x(0)|y(0)|
+|x(1)|y(2)|
+|.|.|
+|.|.|
+|x(N)|y(N)|
+網格點順序如下圖所示
+<img src="">
